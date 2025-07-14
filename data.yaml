@@ -1,0 +1,5 @@
+names:
+  0: traffic-cone
+path: /kaggle/working/traffic-cone-1
+train: train/images
+val: valid/images
